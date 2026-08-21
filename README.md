@@ -111,3 +111,7 @@ API endpoints are robust and handle database connection failures gracefully, ret
 - Add authentication for editors.
 - Support importing papers directly from semantic scholar or Crossref.
 - Implement more complex suitability scoring involving citation impact and publication recency.
+
+
+## Screenshots
+![alt text](<Screenshot 2026-08-21 211216.png>) ![alt text](<Screenshot 2026-08-21 211229.png>) ![alt text](<Screenshot 2026-08-21 211241.png>) ![alt text](<Screenshot 2026-08-21 211347.png>)
